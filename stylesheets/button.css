@@ -12,3 +12,10 @@
   background: #8aba56;
   color: #fff;
 }
+
+.button-green-big {
+  background: #8aba56;
+  color: #fff;
+  font-size: 18px;
+  padding: 30px 60px;
+}
